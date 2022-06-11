@@ -1,0 +1,17 @@
+{
+  "name": "@mindofmatthew/visuals",
+  "version": "0.0.1",
+  "private": "true",
+  "scripts": {
+    "dev": "parcel app/index.html"
+  },
+  "author": "Matthew Kaney",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.141.0",
+    "parcel": "^2.6.0"
+  }
+}
